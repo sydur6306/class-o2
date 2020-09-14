@@ -1,0 +1,32 @@
+section{
+	width:1200px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 50px;
+	color:cyan;
+	margin-top:100px;
+	overflow: hidden;
+}
+.box{
+	width:33.33%;
+	float: left;
+	box-sizing: border-box;
+	padding: 20px;
+}
+p{
+	color:#fff;
+	font-size:30px;
+	margin:0;
+}
+.red{
+	background: red;
+	padding: 20px;
+}
+.gray{
+	background: gray;
+	padding: 20px;
+}
+.orange{
+	background: orange;
+	padding: 20px;
+}
